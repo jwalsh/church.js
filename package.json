@@ -1,0 +1,20 @@
+{
+  "name": "church.js",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jwalsh/church.js.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c305c67a626c5056f636a02b0150866e13876b74",
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
