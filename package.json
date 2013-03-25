@@ -4,7 +4,7 @@
   "description": "Lambda Calculus in JavaScript",
   "main": "lib/church.js",
   "scripts": {
-    "test": "test/church.html
+    "test": "test/church.html"
   },
   "repository": {
     "type": "git",
